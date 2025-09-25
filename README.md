@@ -11,6 +11,7 @@ Users can search for jobs, filter by company or location, and view job details i
 - 🗂 **Clean & modern UI**
 
 ## 📂 Project Structure
+
 job-portal/
 ├── index.html # Main HTML page
 ├── style.css # Styles for the UI
