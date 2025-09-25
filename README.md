@@ -18,6 +18,7 @@ job-portal/
 └── script.js # Search & job listing logic
 
 🛠 Technologies Used
+
 HTML5 – Structure
 CSS3 – Styling & responsiveness
 JavaScript (Vanilla) – Interactivity
