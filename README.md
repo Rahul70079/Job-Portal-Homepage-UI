@@ -16,6 +16,7 @@ job-portal/
 ├── index.html # Main HTML page
 ├── style.css # Styles for the UI
 └── script.js # Search & job listing logic
+
 🛠 Technologies Used
 HTML5 – Structure
 CSS3 – Styling & responsiveness
